@@ -6,7 +6,7 @@
         <li>Estudante</li>
     </ul>
 </header>
-<img src="alurastart logo.png" alt="logo da alura start">
+<img src="-alura-start. logo.png" alt="logo da alura start">
 <section class="escola">
     <div class="escola-div-conteudo">
         <h2 class="escola-titulo">Sobre a escola</h2>
