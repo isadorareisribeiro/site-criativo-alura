@@ -1,9 +1,17 @@
+*{
+margin:0;
+padding: 0;
+}
 header {
     background-color: #ffffff;
     color: #000000;
-}
-.cabeçalho-lista{
     display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px;
+
+
+
 }
 
 .cabeçalho-imagem{
@@ -12,4 +20,9 @@ header {
 } 
 .escola-imagem{
     width: 25%;
+}
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+
 }
