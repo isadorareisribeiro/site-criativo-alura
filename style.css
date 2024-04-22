@@ -1,9 +1,15 @@
 header {
     background-color: #ffffff;
-    color: #ffffff;
+    color: #000000;
+}
+.cabeçalho-lista{
+    display: flex;
 }
 
 .cabeçalho-imagem{
-    width: 60%;
+    width: 200px;
 
+} 
+.escola-imagem{
+    width: 25%;
 }
